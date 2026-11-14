@@ -13,6 +13,23 @@ til et arkiv.
 | [`hefter/`](hefter/) | De 150 dokumentene fra fem øvingshefter, én mappe per hefte og kommune og én PDF per dokument. |
 | [`zip/`](zip/) | Hver utgave og hvert øvingshefte som zip-fil med README og lisens, til nedlasting. |
 
+## Bruk og tilbakemeldinger
+
+Dokumentene er laget for å brukes. Jeg ser gjerne at de brukes til
+
+- trening, finjustering og evaluering av KI-modeller og andre verktøy for innsynsbehandling, sladding og
+  dokumentklassifisering
+- testing av tekstgjenkjenning (OCR) og tolking av håndskrift, dialekter og dokumenter i dårlig kvalitet
+- opplæring og øving i offentleglova, forvaltningsloven og taushetsplikt
+- forskning, undervisning og utvikling av arkiv- og saksbehandlingssystemer.
+
+Lisensen (CC BY-SA 4.0) tillater all slik bruk, også kommersiell. Det eneste kravet er at du navngir kilden og
+deler bearbeidede versjoner av dokumentene på samme vilkår.
+
+Jeg vil gjerne høre fra deg om du bruker dokumentene, finner feil eller savner dokumenttyper, dialekter eller
+vanskelige tilfeller. Opprett en sak under
+[Issues](https://github.com/magnehg/innsynsdokumenter/issues), eller ta kontakt via <https://magnehg.net>.
+
 ## Last ned
 
 ### Én utgave som zip
