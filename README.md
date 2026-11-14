@@ -1,6 +1,6 @@
 # Innsynsdokumenter
 
-Oppdiktede dokumenter til å øve på innsynsbehandling etter offentleglova: 565 dokumenter fra
+Oppdiktede dokumenter til å øve på innsynsbehandling etter offentleglova: 615 dokumenter fra
 [Paragrafkarusellen](https://spill.magnehg.no), et spill for å øve på offentleglova, og 150 dokumenter fra fem
 øvingshefter. Dokumentene fra Paragrafkarusellen finnes i to utgaver: som ren PDF og i dårlig kvalitet, slik dokumenter ofte ser ut når de kommer inn
 til et arkiv.
@@ -19,8 +19,8 @@ til et arkiv.
 
 Klikk på lenken, så starter nedlastingen:
 
-- [paragrafkarusellen-dokumenter-pdf.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/paragrafkarusellen-dokumenter-pdf.zip) (16 MB): alle dokumentene som PDF
-- [paragrafkarusellen-dokumenter-skannet.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/paragrafkarusellen-dokumenter-skannet.zip) (40 MB): alle dokumentene i dårlig kvalitet
+- [paragrafkarusellen-dokumenter-pdf.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/paragrafkarusellen-dokumenter-pdf.zip) (17 MB): alle dokumentene som PDF
+- [paragrafkarusellen-dokumenter-skannet.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/paragrafkarusellen-dokumenter-skannet.zip) (44 MB): alle dokumentene i dårlig kvalitet
 
 Hver zip har enkeltdokumentene, `oversikt.csv`, `README.md` og `LICENSE.txt`.
 
@@ -39,12 +39,12 @@ Hver zip har de 30 enkeltdokumentene, hele heftet, `oversikt.csv`, `README.md` o
 Trykk på den grønne knappen **Code** øverst på [forsiden av repoet](https://github.com/magnehg/innsynsdokumenter)
 og velg **Download ZIP**, eller bruk
 [denne lenken](https://github.com/magnehg/innsynsdokumenter/archive/refs/heads/main.zip). Da får du begge utgavene,
-de samlede PDF-ene og zip-filene i én fil (ca. 320 MB).
+de samlede PDF-ene og zip-filene i én fil (ca. 335 MB).
 
 ### Alt i én PDF
 
 - [Samlet PDF](https://github.com/magnehg/innsynsdokumenter/raw/main/samlet/paragrafkarusellen-dokumenter-pdf-samlet.pdf) (18 MB)
-- [Samlet skannet PDF](https://github.com/magnehg/innsynsdokumenter/raw/main/samlet/paragrafkarusellen-dokumenter-skannet-samlet.pdf) (55 MB)
+- [Samlet skannet PDF](https://github.com/magnehg/innsynsdokumenter/raw/main/samlet/paragrafkarusellen-dokumenter-skannet-samlet.pdf) (59 MB)
 
 ### Fra kommandolinjen
 
@@ -81,6 +81,8 @@ Hele heftet har i tillegg forside, omtale av kommunen, oppgaver og dokumentovers
 - **001–500:** brev, notater, interne dokumenter og e-poster.
 - **501–565:** SMS-tråder skrevet på 50 norske dialekter, multietnolekt og ti andre språkformer (svorsk, dansk-norsk,
   samiske og kvenske innslag og norsk som andrespråk).
+- **566–615:** brev og e-poster fra innbyggere som er forvirret, rasende eller overbevist om at lover og regler ikke
+  gjelder dem. Det går ikke fram av enkeltord at avsenderen bør skjermes, bare av sammenhengen.
 
 `oversikt.csv` i `pdf/` og `skannet/` viser nummer, filnavn, tittel og avsender. I `skannet/` viser den også om
 dokumentet er håndskrevet, om kontrasten er lav, hvordan det er tatt opp, oppløsningen og antall sider.
