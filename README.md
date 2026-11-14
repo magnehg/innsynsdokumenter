@@ -9,6 +9,15 @@ til et arkiv.
 | [`pdf/`](pdf/) | Alle dokumentene som A4-PDF med søkbar tekst og vektorgrafikk, én fil per dokument. |
 | [`skannet/`](skannet/) | De samme dokumentene skannet, fotografert, kopiert på kopimaskin og fakset (PDF, JPG, PNG og TIF). En fjerdedel av brevene er håndskrevet med varierende tydelighet, og en del har for lav kontrast. |
 | [`samlet/`](samlet/) | Hver utgave slått sammen til én PDF, i nummerrekkefølge og med ett bokmerke per dokument. |
+| [`zip/`](zip/) | Hver utgave som zip-fil med README og lisens, til nedlasting. |
+
+## Last ned
+
+- [paragrafkarusellen-dokumenter-pdf.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/paragrafkarusellen-dokumenter-pdf.zip) (16 MB): alle dokumentene som PDF
+- [paragrafkarusellen-dokumenter-skannet.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/paragrafkarusellen-dokumenter-skannet.zip) (40 MB): alle dokumentene i dårlig kvalitet
+- [Samlet PDF](https://github.com/magnehg/innsynsdokumenter/raw/main/samlet/paragrafkarusellen-dokumenter-pdf-samlet.pdf) (18 MB) og [samlet skannet PDF](https://github.com/magnehg/innsynsdokumenter/raw/main/samlet/paragrafkarusellen-dokumenter-skannet-samlet.pdf) (55 MB)
+
+## Innhold
 
 - **001–500:** brev, notater, interne dokumenter og e-poster.
 - **501–565:** SMS-tråder skrevet på 50 norske dialekter, multietnolekt og ti andre språkformer (svorsk, dansk-norsk,
