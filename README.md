@@ -26,6 +26,11 @@ Dokumentene er laget for å brukes. Jeg ser gjerne at de brukes til
 Lisensen (CC BY-SA 4.0) tillater all slik bruk, også kommersiell. Det eneste kravet er at du navngir kilden og
 deler bearbeidede versjoner av dokumentene på samme vilkår.
 
+**Trente modeller:** Som rettighetshaver gir jeg i tillegg denne tillatelsen: En KI-modell som er trent, finjustert
+eller evaluert på dokumentene, regner jeg ikke som en bearbeidet versjon av dem. Modellen, vektene og det den
+produserer kan derfor brukes og gis ut under hvilken som helst lisens, også lukket og kommersielt. Kravet om deling
+på samme vilkår gjelder bare når selve dokumentene, eller endrede utgaver av dem, deles videre.
+
 Jeg vil gjerne høre fra deg om du bruker dokumentene, finner feil eller savner dokumenttyper, dialekter eller
 vanskelige tilfeller. Opprett en sak under
 [Issues](https://github.com/magnehg/innsynsdokumenter/issues), eller ta kontakt via <https://magnehg.net>.
@@ -136,4 +141,5 @@ Lisensen for dokumentene gjelder ikke selve skrifttypene.
 
 **English summary:** These fictional practice documents from Paragrafkarusellen, © 2026 Magne Haagen Grøtting (https://magnehg.net),
 are licensed under CC BY-SA 4.0. See `LICENSE`. Attribute as shown above and share adaptations
-under the same licence.
+under the same licence. As an additional permission from the rights holder, AI models trained, fine-tuned or evaluated on
+the documents are not considered adaptations and may be released under any licence.
