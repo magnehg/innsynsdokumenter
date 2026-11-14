@@ -6,4 +6,6 @@ De 30 dokumentene fra øvingshefte P (politisk møtebehandling og innsyn, versjo
 Hele heftet, med forside, omtale av kommunen, oppgaver og dokumentoversikt, ligger i
 [`samlet/Ovingshefte_P_innsyn_FIKTIV_v1.0.pdf`](../../samlet/Ovingshefte_P_innsyn_FIKTIV_v1.0.pdf).
 
+Alt i én zip: [ovingshefte-p-plenumsvik.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/ovingshefte-p-plenumsvik.zip).
+
 Plenumsvik kommune og alt innholdet er oppdiktet. Lisens: CC BY-SA 4.0, se [README](../../README.md) i rota.

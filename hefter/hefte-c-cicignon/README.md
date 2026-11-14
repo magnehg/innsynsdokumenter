@@ -6,4 +6,6 @@ De 30 dokumentene fra øvingshefte C (innsynsbehandling, versjon 1.1), én PDF p
 Hele heftet, med forside, omtale av kommunen, oppgaver og dokumentoversikt, ligger i
 [`samlet/Ovingshefte_C_innsyn_FIKTIV_v1.1.pdf`](../../samlet/Ovingshefte_C_innsyn_FIKTIV_v1.1.pdf).
 
+Alt i én zip: [ovingshefte-c-cicignon.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/ovingshefte-c-cicignon.zip).
+
 Cicignon kommune og alt innholdet er oppdiktet. Lisens: CC BY-SA 4.0, se [README](../../README.md) i rota.
