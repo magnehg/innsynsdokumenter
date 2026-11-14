@@ -2,8 +2,8 @@
 
 Hver utgave slått sammen til én PDF, i nummerrekkefølge og med ett bokmerke per dokument.
 
-- `paragrafkarusellen-dokumenter-pdf-samlet.pdf`: PDF-utgaven, 565 sider
-- `paragrafkarusellen-dokumenter-skannet-samlet.pdf`: den skannede utgaven, 567 sider
+- `paragrafkarusellen-dokumenter-pdf-samlet.pdf`: PDF-utgaven, 615 sider
+- `paragrafkarusellen-dokumenter-skannet-samlet.pdf`: den skannede utgaven, 617 sider
 
 De fem øvingsheftene ligger her som hele PDF-er, slik de ble gitt ut:
 
