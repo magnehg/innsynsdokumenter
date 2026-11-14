@@ -11,7 +11,7 @@ til et arkiv.
 | [`skannet/`](skannet/) | De samme dokumentene skannet, fotografert, kopiert på kopimaskin og fakset (PDF, JPG, PNG og TIF). En fjerdedel av brevene er håndskrevet med varierende tydelighet, og en del har for lav kontrast. |
 | [`samlet/`](samlet/) | Hver utgave slått sammen til én PDF, i nummerrekkefølge og med ett bokmerke per dokument, og de fem øvingsheftene som hele PDF-er. |
 | [`hefter/`](hefter/) | De 150 dokumentene fra fem øvingshefter, én mappe per hefte og kommune og én PDF per dokument. |
-| [`zip/`](zip/) | Hver utgave som zip-fil med README og lisens, til nedlasting. |
+| [`zip/`](zip/) | Hver utgave og hvert øvingshefte som zip-fil med README og lisens, til nedlasting. |
 
 ## Last ned
 
@@ -24,12 +24,22 @@ Klikk på lenken, så starter nedlastingen:
 
 Hver zip har enkeltdokumentene, `oversikt.csv`, `README.md` og `LICENSE.txt`.
 
+### Ett øvingshefte som zip
+
+- [ovingshefte-a-ankerfjorden.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/ovingshefte-a-ankerfjorden.zip) (15 MB): hefte A, Ankerfjorden kommune
+- [ovingshefte-b-bremyr.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/ovingshefte-b-bremyr.zip) (15 MB): hefte B, Bremyr kommune
+- [ovingshefte-c-cicignon.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/ovingshefte-c-cicignon.zip) (15 MB): hefte C, Cicignon kommune
+- [ovingshefte-d-djupdalen.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/ovingshefte-d-djupdalen.zip) (15 MB): hefte D, Djupdalen kommune
+- [ovingshefte-p-plenumsvik.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/ovingshefte-p-plenumsvik.zip) (5 MB): hefte P, Plenumsvik kommune
+
+Hver zip har de 30 enkeltdokumentene, hele heftet, `oversikt.csv`, `README.md` og `LICENSE.txt`.
+
 ### Alt som én zip
 
 Trykk på den grønne knappen **Code** øverst på [forsiden av repoet](https://github.com/magnehg/innsynsdokumenter)
 og velg **Download ZIP**, eller bruk
 [denne lenken](https://github.com/magnehg/innsynsdokumenter/archive/refs/heads/main.zip). Da får du begge utgavene,
-de samlede PDF-ene og zip-filene i én fil (ca. 190 MB).
+de samlede PDF-ene og zip-filene i én fil (ca. 320 MB).
 
 ### Alt i én PDF
 
