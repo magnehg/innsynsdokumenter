@@ -13,9 +13,41 @@ til et arkiv.
 
 ## Last ned
 
+### Én utgave som zip
+
+Klikk på lenken, så starter nedlastingen:
+
 - [paragrafkarusellen-dokumenter-pdf.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/paragrafkarusellen-dokumenter-pdf.zip) (16 MB): alle dokumentene som PDF
 - [paragrafkarusellen-dokumenter-skannet.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/paragrafkarusellen-dokumenter-skannet.zip) (40 MB): alle dokumentene i dårlig kvalitet
-- [Samlet PDF](https://github.com/magnehg/innsynsdokumenter/raw/main/samlet/paragrafkarusellen-dokumenter-pdf-samlet.pdf) (18 MB) og [samlet skannet PDF](https://github.com/magnehg/innsynsdokumenter/raw/main/samlet/paragrafkarusellen-dokumenter-skannet-samlet.pdf) (55 MB)
+
+Hver zip har enkeltdokumentene, `oversikt.csv`, `README.md` og `LICENSE.txt`.
+
+### Alt som én zip
+
+Trykk på den grønne knappen **Code** øverst på [forsiden av repoet](https://github.com/magnehg/innsynsdokumenter)
+og velg **Download ZIP**, eller bruk
+[denne lenken](https://github.com/magnehg/innsynsdokumenter/archive/refs/heads/main.zip). Da får du begge utgavene,
+de samlede PDF-ene og zip-filene i én fil (ca. 190 MB).
+
+### Alt i én PDF
+
+- [Samlet PDF](https://github.com/magnehg/innsynsdokumenter/raw/main/samlet/paragrafkarusellen-dokumenter-pdf-samlet.pdf) (18 MB)
+- [Samlet skannet PDF](https://github.com/magnehg/innsynsdokumenter/raw/main/samlet/paragrafkarusellen-dokumenter-skannet-samlet.pdf) (55 MB)
+
+### Fra kommandolinjen
+
+```sh
+# én utgave
+curl -LO https://github.com/magnehg/innsynsdokumenter/raw/main/zip/paragrafkarusellen-dokumenter-pdf.zip
+curl -LO https://github.com/magnehg/innsynsdokumenter/raw/main/zip/paragrafkarusellen-dokumenter-skannet.zip
+
+# hele repoet
+git clone --depth 1 https://github.com/magnehg/innsynsdokumenter.git
+```
+
+### Ett enkelt dokument
+
+Åpne filen i [`pdf/`](pdf/) eller [`skannet/`](skannet/) og trykk på nedlastingsknappen (pil ned) øverst til høyre.
 
 ## Innhold
 
