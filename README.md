@@ -1,14 +1,16 @@
 # Innsynsdokumenter
 
-565 oppdiktede øvingsdokumenter fra [Paragrafkarusellen](https://spill.magnehg.no), et spill for å øve på offentleglova.
-Hvert dokument finnes i to utgaver: som ren PDF og i dårlig kvalitet, slik dokumenter ofte ser ut når de kommer inn
+Oppdiktede dokumenter til å øve på innsynsbehandling etter offentleglova: 565 dokumenter fra
+[Paragrafkarusellen](https://spill.magnehg.no), et spill for å øve på offentleglova, og 150 dokumenter fra fem
+øvingshefter. Dokumentene fra Paragrafkarusellen finnes i to utgaver: som ren PDF og i dårlig kvalitet, slik dokumenter ofte ser ut når de kommer inn
 til et arkiv.
 
 | Mappe | Innhold |
 |---|---|
 | [`pdf/`](pdf/) | Alle dokumentene som A4-PDF med søkbar tekst og vektorgrafikk, én fil per dokument. |
 | [`skannet/`](skannet/) | De samme dokumentene skannet, fotografert, kopiert på kopimaskin og fakset (PDF, JPG, PNG og TIF). En fjerdedel av brevene er håndskrevet med varierende tydelighet, og en del har for lav kontrast. |
-| [`samlet/`](samlet/) | Hver utgave slått sammen til én PDF, i nummerrekkefølge og med ett bokmerke per dokument. |
+| [`samlet/`](samlet/) | Hver utgave slått sammen til én PDF, i nummerrekkefølge og med ett bokmerke per dokument, og de fem øvingsheftene som hele PDF-er. |
+| [`hefter/`](hefter/) | De 150 dokumentene fra fem øvingshefter, én mappe per hefte og kommune og én PDF per dokument. |
 | [`zip/`](zip/) | Hver utgave som zip-fil med README og lisens, til nedlasting. |
 
 ## Last ned
@@ -49,6 +51,21 @@ git clone --depth 1 https://github.com/magnehg/innsynsdokumenter.git
 
 Åpne filen i [`pdf/`](pdf/) eller [`skannet/`](skannet/) og trykk på nedlastingsknappen (pil ned) øverst til høyre.
 
+## Øvingsheftene
+
+Fem øvingshefter med 30 dokumenter hver, fra hver sin oppdiktede kommune. Dokumentene er ordnet etter saken de
+gjelder, med innsynskravet først. Hefte P handler om politisk møtebehandling.
+
+| Hefte | Kommune | Enkeltdokumenter | Hele heftet |
+|---|---|---|---|
+| A | Ankerfjorden kommune | [`hefter/hefte-a-ankerfjorden/`](hefter/hefte-a-ankerfjorden/) | [Ovingshefte_A_innsyn_FIKTIV_v1.1.pdf](https://github.com/magnehg/innsynsdokumenter/raw/main/samlet/Ovingshefte_A_innsyn_FIKTIV_v1.1.pdf) |
+| B | Bremyr kommune | [`hefter/hefte-b-bremyr/`](hefter/hefte-b-bremyr/) | [Ovingshefte_B_innsyn_FIKTIV_v1.1.pdf](https://github.com/magnehg/innsynsdokumenter/raw/main/samlet/Ovingshefte_B_innsyn_FIKTIV_v1.1.pdf) |
+| C | Cicignon kommune | [`hefter/hefte-c-cicignon/`](hefter/hefte-c-cicignon/) | [Ovingshefte_C_innsyn_FIKTIV_v1.1.pdf](https://github.com/magnehg/innsynsdokumenter/raw/main/samlet/Ovingshefte_C_innsyn_FIKTIV_v1.1.pdf) |
+| D | Djupdalen kommune | [`hefter/hefte-d-djupdalen/`](hefter/hefte-d-djupdalen/) | [Ovingshefte_D_innsyn_FIKTIV_v1.1.pdf](https://github.com/magnehg/innsynsdokumenter/raw/main/samlet/Ovingshefte_D_innsyn_FIKTIV_v1.1.pdf) |
+| P | Plenumsvik kommune | [`hefter/hefte-p-plenumsvik/`](hefter/hefte-p-plenumsvik/) | [Ovingshefte_P_innsyn_FIKTIV_v1.0.pdf](https://github.com/magnehg/innsynsdokumenter/raw/main/samlet/Ovingshefte_P_innsyn_FIKTIV_v1.0.pdf) |
+
+Hele heftet har i tillegg forside, omtale av kommunen, oppgaver og dokumentoversikt.
+
 ## Innhold
 
 - **001–500:** brev, notater, interne dokumenter og e-poster.
@@ -73,7 +90,7 @@ Du kan kopiere, dele, endre og bruke dokumentene til hva som helst, også kommer
 
 Foreslått navngivelse:
 
-> Dokumenter fra Paragrafkarusellen av Magne Haagen Grøtting (https://magnehg.net), lisensiert under CC BY-SA 4.0
+> Dokumenter fra Paragrafkarusellen og øvingsheftene av Magne Haagen Grøtting (https://magnehg.net), lisensiert under CC BY-SA 4.0
 > (https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Om innholdet
