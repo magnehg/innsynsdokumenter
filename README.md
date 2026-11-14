@@ -63,7 +63,7 @@ dokumentet er håndskrevet, om kontrasten er lav, hvordan det er tatt opp, oppl�
 © 2026 Magne Haagen Grøtting (<https://magnehg.net>).
 
 Dokumentene er lisensiert under **Creative Commons Navngivelse-DelPåSammeVilkår 4.0 Internasjonal (CC BY-SA 4.0)**.
-Hele lisensteksten står i `LICENSE.txt` og på <https://creativecommons.org/licenses/by-sa/4.0/legalcode.no>
+Hele lisensteksten står i `LICENSE` og på <https://creativecommons.org/licenses/by-sa/4.0/legalcode.no>
 (sammendrag: <https://creativecommons.org/licenses/by-sa/4.0/deed.no>).
 
 Du kan kopiere, dele, endre og bruke dokumentene til hva som helst, også kommersielt, så lenge du
@@ -89,5 +89,5 @@ Lisensen for dokumentene gjelder ikke selve skrifttypene.
 ---
 
 **English summary:** These fictional practice documents from Paragrafkarusellen, © 2026 Magne Haagen Grøtting (https://magnehg.net),
-are licensed under CC BY-SA 4.0. See `LICENSE.txt`. Attribute as shown above and share adaptations
+are licensed under CC BY-SA 4.0. See `LICENSE`. Attribute as shown above and share adaptations
 under the same licence.
