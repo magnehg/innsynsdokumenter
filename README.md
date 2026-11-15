@@ -49,7 +49,8 @@ Hver zip har enkeltdokumentene, `oversikt.csv`, `README.md` og `LICENSE.txt`.
 ## Innhold fra Paragrafkarusellen
 
 - **001–500:** brev, notater, interne dokumenter og e-poster. (Innhold i Quizmotoren)
-- Tillegg for trening av AI: 
+
+Tillegg for trening av AI: 
 - **501–565:** SMS-tråder skrevet på 50 norske dialekter, multietnolekt og ti andre språkformer (svorsk, dansk-norsk,
   samiske og kvenske innslag og norsk som andrespråk).
 - **566–615:** brev og e-poster fra innbyggere som er forvirret, rasende eller overbevist om at lover og regler ikke
