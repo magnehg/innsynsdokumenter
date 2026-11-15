@@ -11,6 +11,7 @@ til et arkiv.
 | [`skannet/`](skannet/) | De samme dokumentene skannet, fotografert, kopiert på kopimaskin og fakset (PDF, JPG, PNG og TIF). En fjerdedel av brevene er håndskrevet med varierende tydelighet, og en del har for lav kontrast. |
 | [`samlet/`](samlet/) | Hver utgave slått sammen til én PDF, i nummerrekkefølge og med ett bokmerke per dokument, og de fem øvingsheftene som hele PDF-er. |
 | [`hefter/`](hefter/) | De 150 dokumentene fra fem øvingshefter, én mappe per hefte og kommune og én PDF per dokument. |
+| [`fasit/`](fasit/) | **Svarene.** Forslag til fasit for alle dokumentene i én XML-fil: hjemmel, begrunnelse og hva som er sensitivt. |
 | [`zip/`](zip/) | Hver utgave og hvert øvingshefte som zip-fil med README og lisens, til nedlasting. |
 
 ## Bruk og tilbakemeldinger
@@ -34,6 +35,21 @@ på samme vilkår gjelder bare når selve dokumentene, eller endrede utgaver av 
 Jeg vil gjerne høre fra deg om du bruker dokumentene, finner feil eller savner dokumenttyper, dialekter eller
 vanskelige tilfeller. Opprett en sak under
 [Issues](https://github.com/magnehg/innsynsdokumenter/issues), eller ta kontakt via <https://magnehg.net>.
+
+## Fasit
+
+> **Advarsel:** [`fasit/fasit.xml`](fasit/fasit.xml) inneholder svarene. Ikke åpne den hvis du skal øve på
+> dokumentene.
+
+Fasiten dekker alle de 765 dokumentene og sier for hvert av dem om det er offentlig, bør sladdes eller kan unntas,
+med hjemmel, begrunnelse og de sensitive opplysningene som ordrett tekst. Den er laget for trening og evaluering av
+KI og andre verktøy.
+
+Fasiten er et **forslag**. De 500 første vurderingene kommer fra Paragrafkarusellen. De øvrige 265 (SMS-ene,
+innbyggerbrevene og øvingsheftene) er utkast laget med KI og er ikke kvalitetssikret av jurist. Innsynsvurderinger er
+skjønn, og ofte er flere svar forsvarlige. Se [`fasit/README.md`](fasit/README.md) for strukturen og forbeholdene.
+
+Fasiten ligger ikke i zip-filene og ikke i øvingsheftene.
 
 ## Innhold fra Paragrafkarusellen
 
