@@ -153,10 +153,11 @@ Foreslått navngivelse:
 Alt innholdet tilbys vederlagsfritt. Ønsker du likevel å gi noe tilbake, setter jeg pris på
 
 - en gave til [Trøndelag dyrevern](https://trondelagdyrevern.no/) eller et annet godt formål
-- en kopp med firmanavnet deres eller annet kult stæsj. Adressen får du ved henvendelse.
+- en kopp med firmanavnet deres eller annet kult stæsj.
 
 Jeg vil også gjerne høre hva dokumentene er blitt brukt til, hva som fungerer godt, og om noe kan forbedres.
-Kontaktinformasjonen min står på [1881.no](https://www.1881.no/).
+
+Adressen og kontaktinformasjonen min finner du ved å søke meg opp på [1881.no](https://www.1881.no/).
 
 ## Om innholdet
 
