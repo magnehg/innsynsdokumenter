@@ -46,6 +46,19 @@ Klikk på lenken, så starter nedlastingen:
 
 Hver zip har enkeltdokumentene, `oversikt.csv`, `README.md` og `LICENSE.txt`.
 
+## Innhold fra Paragrafkarusellen
+
+- **001–500:** brev, notater, interne dokumenter og e-poster. (Innhold i Quizmotoren)
+- Tillegg for trening av AI: 
+- **501–565:** SMS-tråder skrevet på 50 norske dialekter, multietnolekt og ti andre språkformer (svorsk, dansk-norsk,
+  samiske og kvenske innslag og norsk som andrespråk).
+- **566–615:** brev og e-poster fra innbyggere som er forvirret, rasende eller overbevist om at lover og regler ikke
+  gjelder dem. Det går ikke fram av enkeltord at avsenderen bør skjermes, bare av sammenhengen.
+
+`oversikt.csv` i `pdf/` og `skannet/` viser nummer, filnavn, tittel og avsender. I `skannet/` viser den også om
+dokumentet er håndskrevet, om kontrasten er lav, hvordan det er tatt opp, oppløsningen og antall sider.
+
+
 ### Ett øvingshefte som zip
 
 - [ovingshefte-a-ankerfjorden.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/ovingshefte-a-ankerfjorden.zip) (15 MB): hefte A, Ankerfjorden kommune
@@ -98,16 +111,6 @@ gjelder, med innsynskravet først. Hefte P handler om politisk møtebehandling.
 
 Hele heftet har i tillegg forside, omtale av kommunen, oppgaver og dokumentoversikt.
 
-## Innhold
-
-- **001–500:** brev, notater, interne dokumenter og e-poster.
-- **501–565:** SMS-tråder skrevet på 50 norske dialekter, multietnolekt og ti andre språkformer (svorsk, dansk-norsk,
-  samiske og kvenske innslag og norsk som andrespråk).
-- **566–615:** brev og e-poster fra innbyggere som er forvirret, rasende eller overbevist om at lover og regler ikke
-  gjelder dem. Det går ikke fram av enkeltord at avsenderen bør skjermes, bare av sammenhengen.
-
-`oversikt.csv` i `pdf/` og `skannet/` viser nummer, filnavn, tittel og avsender. I `skannet/` viser den også om
-dokumentet er håndskrevet, om kontrasten er lav, hvordan det er tatt opp, oppløsningen og antall sider.
 
 ## Lisens
 
