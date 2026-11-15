@@ -35,17 +35,6 @@ Jeg vil gjerne høre fra deg om du bruker dokumentene, finner feil eller savner 
 vanskelige tilfeller. Opprett en sak under
 [Issues](https://github.com/magnehg/innsynsdokumenter/issues), eller ta kontakt via <https://magnehg.net>.
 
-## Last ned
-
-### Én utgave som zip
-
-Klikk på lenken, så starter nedlastingen:
-
-- [paragrafkarusellen-dokumenter-pdf.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/paragrafkarusellen-dokumenter-pdf.zip) (17 MB): alle dokumentene som PDF
-- [paragrafkarusellen-dokumenter-skannet.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/paragrafkarusellen-dokumenter-skannet.zip) (44 MB): alle dokumentene i dårlig kvalitet
-
-Hver zip har enkeltdokumentene, `oversikt.csv`, `README.md` og `LICENSE.txt`.
-
 ## Innhold fra Paragrafkarusellen
 
 - **001–500:** brev, notater, interne dokumenter og e-poster. (Innhold fra [Paragrafkarusellen](https://spill.magnehg.no))
@@ -59,8 +48,20 @@ Tillegg for trening av AI:
 `oversikt.csv` i `pdf/` og `skannet/` viser nummer, filnavn, tittel og avsender. I `skannet/` viser den også om
 dokumentet er håndskrevet, om kontrasten er lav, hvordan det er tatt opp, oppløsningen og antall sider.
 
+## Last ned
 
-### Ett øvingshefte som zip
+### Én utgave som zip
+
+Klikk på lenken, så starter nedlastingen:
+
+- [paragrafkarusellen-dokumenter-pdf.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/paragrafkarusellen-dokumenter-pdf.zip) (17 MB): alle dokumentene som PDF
+- [paragrafkarusellen-dokumenter-skannet.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/paragrafkarusellen-dokumenter-skannet.zip) (44 MB): alle dokumentene i dårlig kvalitet
+
+Hver zip har enkeltdokumentene, `oversikt.csv`, `README.md` og `LICENSE.txt`.
+
+
+### Øvingshefter for klasseromsundervisning som enkeltdokumenter ([magnehg.no/](https://www.magnehg.no/ressurser-for-innsyn/))
+
 
 - [ovingshefte-a-ankerfjorden.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/ovingshefte-a-ankerfjorden.zip) (15 MB): hefte A, Ankerfjorden kommune
 - [ovingshefte-b-bremyr.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/ovingshefte-b-bremyr.zip) (15 MB): hefte B, Bremyr kommune
