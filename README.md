@@ -48,8 +48,6 @@ Tillegg for trening av AI:
 `oversikt.csv` i `pdf/` og `skannet/` viser nummer, filnavn, tittel og avsender. I `skannet/` viser den også om
 dokumentet er håndskrevet, om kontrasten er lav, hvordan det er tatt opp, oppløsningen og antall sider.
 
-## Last ned
-
 ### Én utgave som zip
 
 Klikk på lenken, så starter nedlastingen:
@@ -59,10 +57,11 @@ Klikk på lenken, så starter nedlastingen:
 
 Hver zip har enkeltdokumentene, `oversikt.csv`, `README.md` og `LICENSE.txt`.
 
+## Øvingshefter for klasseromsundervisning som enkeltdokumenter
+Fem øvingshefter fra ([magnehg.no/](https://www.magnehg.no/ressurser-for-innsyn/)) omdannet til enkeltdokumenter. 
+Hvert hefte inneholder 30 dokumenter med innhold som typoisk offentlighetsvurderes i en kommune. 
 
-### Øvingshefter for klasseromsundervisning som enkeltdokumenter ([magnehg.no/](https://www.magnehg.no/ressurser-for-innsyn/))
-
-
+### Øvingshefter for klasseromsundervisning som enkeltdokumenter
 - [ovingshefte-a-ankerfjorden.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/ovingshefte-a-ankerfjorden.zip) (15 MB): hefte A, Ankerfjorden kommune
 - [ovingshefte-b-bremyr.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/ovingshefte-b-bremyr.zip) (15 MB): hefte B, Bremyr kommune
 - [ovingshefte-c-cicignon.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/ovingshefte-c-cicignon.zip) (15 MB): hefte C, Cicignon kommune
