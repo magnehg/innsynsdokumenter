@@ -36,6 +36,13 @@ Jeg vil gjerne høre fra deg om du bruker dokumentene, finner feil eller savner 
 vanskelige tilfeller. Opprett en sak under
 [Issues](https://github.com/magnehg/innsynsdokumenter/issues), eller ta kontakt via <https://magnehg.net>.
 
+## Gratis, men si gjerne takk
+
+Alt innholdet tilbys vederlagsfritt. Ønsker du likevel å gi noe tilbake, setter jeg pris på
+
+- en gave til [Trøndelag dyrevern](https://trondelagdyrevern.no/) eller et annet godt formål
+- en kopp med firmanavnet deres eller annet kult stæsj. Adressen får du ved henvendelse.
+
 ## Fasit
 
 > **Advarsel:** [`fasit/fasit.xml`](fasit/fasit.xml) inneholder svarene. Ikke åpne den hvis du skal øve på
@@ -75,9 +82,10 @@ Hver zip har enkeltdokumentene, `oversikt.csv`, `README.md` og `LICENSE.txt`.
 
 ## Øvingshefter for klasseromsundervisning som enkeltdokumenter
 Fem øvingshefter fra ([magnehg.no/](https://www.magnehg.no/ressurser-for-innsyn/)) omdannet til enkeltdokumenter. 
-Hvert hefte inneholder 30 dokumenter med innhold som typoisk offentlighetsvurderes i en kommune. 
+Hvert hefte inneholder 30 dokumenter med innhold som typisk offentlighetsvurderes i en kommune. 
 
-### Øvingshefter for klasseromsundervisning som enkeltdokumenter
+### Ett øvingshefte som zip
+
 - [ovingshefte-a-ankerfjorden.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/ovingshefte-a-ankerfjorden.zip) (15 MB): hefte A, Ankerfjorden kommune
 - [ovingshefte-b-bremyr.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/ovingshefte-b-bremyr.zip) (15 MB): hefte B, Bremyr kommune
 - [ovingshefte-c-cicignon.zip](https://github.com/magnehg/innsynsdokumenter/raw/main/zip/ovingshefte-c-cicignon.zip) (15 MB): hefte C, Cicignon kommune
