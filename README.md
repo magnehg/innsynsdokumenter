@@ -1,8 +1,8 @@
 # Innsynsdokumenter
 
 Oppdiktede dokumenter til å øve på innsynsbehandling etter offentleglova: 615 dokumenter fra
-[Paragrafkarusellen](https://spill.magnehg.no), et spill for å øve på offentleglova, og 150 dokumenter fra fem
-øvingshefter. Dokumentene fra Paragrafkarusellen finnes i to utgaver: som ren PDF og i dårlig kvalitet, slik dokumenter ofte ser ut når de kommer inn
+[Paragrafkarusellen](https://spill.magnehg.no), et spill for å øve på offentleglova, og 150 dokumenter fra [fem
+øvingshefter](https://www.magnehg.no/ressurser-for-innsyn/) tiltenkt klasseromsundervisning. Dokumentene fra Paragrafkarusellen finnes i to utgaver: som ren PDF og i dårlig kvalitet, slik dokumenter ofte ser ut når de kommer inn
 til et arkiv.
 
 | Mappe | Innhold |
