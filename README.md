@@ -36,13 +36,6 @@ Jeg vil gjerne høre fra deg om du bruker dokumentene, finner feil eller savner 
 vanskelige tilfeller. Opprett en sak under
 [Issues](https://github.com/magnehg/innsynsdokumenter/issues), eller ta kontakt via <https://magnehg.net>.
 
-## Gratis, men si gjerne takk
-
-Alt innholdet tilbys vederlagsfritt. Ønsker du likevel å gi noe tilbake, setter jeg pris på
-
-- en gave til [Trøndelag dyrevern](https://trondelagdyrevern.no/) eller et annet godt formål
-- en kopp med firmanavnet deres eller annet kult stæsj. Adressen får du ved henvendelse.
-
 ## Fasit
 
 > **Advarsel:** [`fasit/fasit.xml`](fasit/fasit.xml) inneholder svarene. Ikke åpne den hvis du skal øve på
@@ -154,6 +147,16 @@ Foreslått navngivelse:
 
 > Dokumenter fra Paragrafkarusellen og øvingsheftene av Magne Haagen Grøtting (https://magnehg.net), lisensiert under CC BY-SA 4.0
 > (https://creativecommons.org/licenses/by-sa/4.0/).
+
+### Gratis, men si gjerne takk
+
+Alt innholdet tilbys vederlagsfritt. Ønsker du likevel å gi noe tilbake, setter jeg pris på
+
+- en gave til [Trøndelag dyrevern](https://trondelagdyrevern.no/) eller et annet godt formål
+- en kopp med firmanavnet deres eller annet kult stæsj. Adressen får du ved henvendelse.
+
+Jeg vil også gjerne høre hva dokumentene er blitt brukt til, hva som fungerer godt, og om noe kan forbedres.
+Kontaktinformasjonen min står på [1881.no](https://www.1881.no/).
 
 ## Om innholdet
 
